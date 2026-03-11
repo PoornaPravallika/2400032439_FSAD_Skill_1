@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature update added in this branch
+=======
+Bug fix implemented in this branch
+>>>>>>> bug-fix
